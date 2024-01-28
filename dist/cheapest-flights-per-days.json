@@ -1,0 +1,42 @@
+[
+  {
+    "origin": "FOR",
+    "destination": "LIS",
+    "departureDate": "20/11/2024 19:25",
+    "finalArrivalDate": "21/11/2024 17:35",
+    "value": 196000,
+    "currency": "POINTS"
+  },
+  {
+    "origin": "FOR",
+    "destination": "LIS",
+    "departureDate": "21/11/2024 10:15",
+    "finalArrivalDate": "22/11/2024 10:20",
+    "value": 215000,
+    "currency": "POINTS"
+  },
+  {
+    "origin": "FOR",
+    "destination": "LIS",
+    "departureDate": "22/11/2024 19:25",
+    "finalArrivalDate": "23/11/2024 11:20",
+    "value": 196000,
+    "currency": "POINTS"
+  },
+  {
+    "origin": "FOR",
+    "destination": "LIS",
+    "departureDate": "23/11/2024 23:25",
+    "finalArrivalDate": "24/11/2024 09:30",
+    "value": 168000,
+    "currency": "POINTS"
+  },
+  {
+    "origin": "FOR",
+    "destination": "LIS",
+    "departureDate": "24/11/2024 23:15",
+    "finalArrivalDate": "25/11/2024 09:20",
+    "value": 168000,
+    "currency": "POINTS"
+  }
+]
