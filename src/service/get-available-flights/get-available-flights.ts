@@ -35,7 +35,6 @@ export const getAvailableFlights = async ({
       return response.json();
     })
     .catch((error) => {
-      console.error("Erro ao fazer a requisição:", error.message);
       return undefined;
     });
 };

@@ -24,7 +24,6 @@ export const getFlightValue = async (
       return response.json();
     })
     .catch((error) => {
-      console.error("getFlightValue::Request failed:", error.message);
       return undefined;
     });
 };
