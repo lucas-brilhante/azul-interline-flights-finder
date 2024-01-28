@@ -42,7 +42,7 @@ const initApp = async () => {
   console.log("Getting all flights by selected date range...");
 
   const availableFlights =
-    // [dummy1, dummy2, dummy3] ||
+    // [dummy1] ||
     (await Promise.all(
       dateList.map(async (date) => {
         return await getAvailableFlights({
